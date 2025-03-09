@@ -1,0 +1,10 @@
+streamlit
+numpy
+pandas
+matplotlib
+scikit-learn
+yfinance
+plotly
+stocknews
+alpha_vantage
+pywin32  # 适用于 Windows 发送邮件
